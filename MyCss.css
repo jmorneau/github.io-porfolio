@@ -1,0 +1,14 @@
+body {
+	background-color: red;
+}
+
+img {
+	height: 50px;
+}
+
+h1 {
+	font-size: 400%;
+	text-align: center;
+	color: blue;
+	text-shadow: -3px 0 white, 0 3px white, 3px 0 white, 0 -3px white;
+}
